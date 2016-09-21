@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name MJ-3536NG)(type KiCad)(uri ${KIPRJMOD}/mj-3536ng.pretty)(options "")(descr ""))
+)

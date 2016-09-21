@@ -1,0 +1,23 @@
+Drill report for /home/mcarberry/ham/audio_isolation/audio_isolation.kicad_pcb
+Created on Wed 21 Sep 2016 02:19:31 PM PDT
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'audio_isolation.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.76mm  0.030"  (8 holes)
+    T2  2.10mm  0.083"  (12 holes)
+
+    Total plated holes count 20
+
+
+Drill file 'audio_isolation-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
